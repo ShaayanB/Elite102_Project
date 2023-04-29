@@ -1,0 +1,4 @@
+mysql-connector-python=8.0.33
+jupyter=1.0.0
+ipywidgets=8.0.6
+jupyter-contrib-nbextensions=0.7.0
